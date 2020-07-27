@@ -26,7 +26,7 @@ SECRET_KEY = '5z7)y+a&u4#c2iw1!kcme2vbiosi_2wsq(mlwx!=s4$_g$(=$0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['marco-boutique.herokuapp.com', 'localhost']
 
 
 # Application definition
